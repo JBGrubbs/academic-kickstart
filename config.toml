@@ -1,19 +1,10 @@
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 
-# The URL of your website.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "# Configuration of Academic
-# Documentation: https://sourcethemes.com/academic/
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "# Configuration of Academic
-# Documentation: https://sourcethemes.com/academic/
-
-# The URL of your website.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://keen-bassi-907a68.netlify.com"
+baseurl = "https://JoshGrubbsPhD.netlify.com"
 
 # Title of your site
 title = "Joshua B. Grubbs, Ph.D."
